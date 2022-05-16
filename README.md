@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @augustocesarcruz
 
-## I'm a Technical Writing and Front-End student.
+## I'm a Front-End student.
 
 <div align="center">
   <a href="https://github.com/augustocesarcruz">
