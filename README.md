@@ -1,6 +1,7 @@
-# 👋 Hi, I’m @augustocesarcruz
+# Olá, eu me chamo @augustocesarcruz
 
-## I'm a Front-End student.
+## Sou estudante de Análise e Desenvolvimento de sistemas.
+   E estou voltado para área de estudos Java.
 
 <div align="center">
   <a href="https://github.com/augustocesarcruz">
