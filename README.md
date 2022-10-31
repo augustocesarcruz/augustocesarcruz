@@ -1,6 +1,7 @@
 # Hello, my name is Augusto.
 
-I'm a beginner developer.
+I'm a beginner developer 🌱
+
 How to reach me: augustobazilio@gmail.com
 
 <div align="center">
