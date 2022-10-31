@@ -1,6 +1,7 @@
-# Olá, eu me chamo @augustocesarcruz
+# Hello, my name is Augusto.
 
-## Sou estudante de Análise e Desenvolvimento de sistemas.
+I'm a beginner developer.
+How to reach me: augustobazilio@gmail.com
 
 <div align="center">
   <a href="https://github.com/augustocesarcruz">
