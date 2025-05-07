@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**augustocesarcruz/augustocesarcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá! Eu sou o Augusto Cesar Bazilio da Cruz
 
-Here are some ideas to get you started:
+🎓 Estudante de Técnico em Desenvolvimento de Sistemas no **Senac-ES** (2024–2026)  
+💻 Atualmente aprendendo **SQL** e em breve **Java**  
+🚀 Em busca da minha **primeira oportunidade como estagiário** na área de Desenvolvimento de Sistemas  
+📍 **Rio de Janeiro - RJ**  
+🔗 [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/augusto-cesar-cruz/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📚 O que você vai encontrar aqui?
+
+- Repositórios com **anotações de estudo**
+- Códigos de **exercícios** e **práticas**
+- Meus **projetos futuros** como desenvolvedor em formação
+
+---
+
+### 📫 Contato
+
+- **E-mail:** augustobazilio@gmail.com  
+- **Telefone:** (21) 96584-1616
+
+---
+
+Muito em breve, este perfil estará recheado de projetos legais. Obrigado por visitar!
