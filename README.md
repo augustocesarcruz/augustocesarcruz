@@ -1,5 +1,5 @@
 
-# 👋 Olá! Eu sou o Augusto Cesar Bazilio da Cruz
+# 👋 Olá! Me chamo Augusto Cesar Bazilio da Cruz
 
 🎓 Estudante de Técnico em Desenvolvimento de Sistemas no **Senac-ES** (2024–2026)  
 💻 Atualmente aprendendo **SQL** e em breve **Java**  
